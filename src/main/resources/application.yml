@@ -10,7 +10,7 @@ spring:
         auto-registration: true
         url: http://127.0.0.1:8090
         instance:
-          name: WebSiteOne_Monitor
+          name: Test_Monitor
 management:
   endpoint:
     health:
